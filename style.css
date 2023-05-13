@@ -99,8 +99,9 @@ header hr{
     margin-top: -1.3rem;
 }
 
-.services_contain h3{
-    font-size: 1.5rem;
+h3{
+    font-size: 1.6rem;
+    font-weight: 700;
     font-family: 'Dancing Script', cursive;
     filter: drop-shadow(0 0 2px #E9BABC);
 }
@@ -119,6 +120,11 @@ header hr{
     justify-content: flex-start;
     gap: 1.4rem;
     align-items: center;
+    background: linear-gradient(90deg, transparent, #E9BABC);
+    height: 2.7rem;
+    padding-right: .5rem;
+    border-right: 2px double gray;
+    border-radius: 5px;
 }
 
 .services .bx{
