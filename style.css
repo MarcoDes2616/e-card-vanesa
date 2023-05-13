@@ -140,5 +140,16 @@ h3{
     align-items: center;
     justify-content: center;
     padding: 2rem 0;
+}
 
+footer{
+    text-align: center;
+    background-color: #121212;
+    color: #E9BABC;
+    padding: .5rem;
+    font-size: .8rem;
+}
+footer a{
+    color: white;
+    text-decoration: underline;  
 }
