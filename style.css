@@ -23,6 +23,7 @@ nav{
     align-items: center;
     justify-content: center;
     gap: 2rem;
+    z-index: 100;
 }
 nav a{
     font-size: 1.3rem;
